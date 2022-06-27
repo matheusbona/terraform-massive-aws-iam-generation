@@ -1,0 +1,10 @@
+{
+   "users": [
+      {
+         "clientname": "client1",
+         "clientid": 123321,
+         "queuename": "myqueueout.fifo",
+         "username": "user-123321"
+      }
+   ]
+}
